@@ -1,0 +1,1 @@
+Projeto de um site simples, apenas aplicando as novas tags e funcionalidades aprendidas no curso.
